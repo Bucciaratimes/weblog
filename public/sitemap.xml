@@ -3,27 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bucciaratimes.netlify.app/posts/articletitle/</loc>
-    <lastmod>2021-01-18T14:06:45+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bucciaratimes.netlify.app/</loc>
-    <lastmod>2021-01-18T14:06:45+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bucciaratimes.netlify.app/posts/</loc>
-    <lastmod>2021-01-18T14:06:45+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bucciaratimes.netlify.app/tags/argentina/</loc>
     <lastmod>2021-01-17T17:37:09+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://bucciaratimes.netlify.app/categories/argentina/</loc>
+    <lastmod>2021-01-17T17:37:09+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bucciaratimes.netlify.app/</loc>
     <lastmod>2021-01-17T17:37:09+09:00</lastmod>
   </url>
   
@@ -35,6 +25,11 @@
   <url>
     <loc>https://bucciaratimes.netlify.app/posts/quarta/</loc>
     <lastmod>2020-12-17T17:58:26+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bucciaratimes.netlify.app/posts/</loc>
+    <lastmod>2021-01-17T17:37:09+09:00</lastmod>
   </url>
   
   <url>
