@@ -2,10 +2,29 @@
 title: About Me
 date: 2021-01-17T15:42:29+09:00
 lastmod: 2021-01-17T15:42:29+09:00
-draft: true
+draft: false
 ---
 
-I'm 22. Argentina & Barcelona fan in Japan. Views my own.
 
-<!--more-->
+
+<dl>
+    <dt>2010年W杯直前</dt>
+    <dd>
+        →メッシがいたのと青が好きだったこともあり、アルヘンを応援する
+    </dd>
+    <dt>2010年W杯中</dt>
+    <dd>
+        →マラドーナのトラップを見る
+    </dd>
+    <dt>2010年W杯ベスト８</dt>
+    <dd>
+        →ドイツにボコされてるのを見て、推すことを決断
+    </dd>
+</dl>
+
+
+
+
+
+
 

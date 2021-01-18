@@ -3,9 +3,9 @@ title: Lucas Martínez Quarta
 date: 2020-10-15T17:58:26+09:00
 lastmod: 2020-12-17T17:58:26+09:00
 author: Bucciaratime
-avatar: /images/totoro032.jpg
+avatar: /images/author.jpg
 # authorlink: https://author.site
-cover: /images/maidanaquarta.jpg
+cover: /images/martinez-quarta.jpg
 categories:
   - Argentina
 tags:
@@ -13,19 +13,21 @@ tags:
 draft: false
 ---
 
-CBのタレント不足を世界に露呈した18年W杯。もはやあのお笑い系CB２人とGKのプレーはハラスメントだったと思ってます。本当にイライラしました。
+CBのタレント不足を世界に露呈した18年W杯。あのCB２人のプレーは人生最高のハラスメントだったと思ってます。本当にイライラしました。
 
-そんなDFハラスメントから2年、遂にアルヘンに王道CBが現れたかもしれません。
-といっても身長が低めなので邪道CB説もあるのですが、まあどっちでもいいでしょう。
-
-とにかく！！待望の真面目系CBなのですから期待せざるを得ません。
-
-そんな全アルヘンファンの期待を一身にうける男こそ、ルーカス マルティネス クアルタです。
 
 <!--more-->
 
 
+アレから2年、遂にアルヘンに王道CBが現れたかもしれません。
+といっても身長が低めなので邪道CB説もあるのですが、まあどっちでもいいです。
+
+素直に応援できることが大切ですから。
+
+そんな全アルヘンファンの期待を一身にうける男こそ、ルーカス マルティネス クアルタです。
 # _Lucas Martínez Quarta_
+
+
 
 ## _What kind of Career ?_
 
@@ -124,9 +126,13 @@ CBのタレント不足を世界に露呈した18年W杯。もはやあのお笑
 クアルタはアルヘンを強くします。きっと。
 頑張れクアルタ！！！！
 
+![quarta & maidana 2](/images/maidanaquarta.jpg)
+
 
 """"
+
 追記：
 - イアキーニはシーズン途中退任となった模様。。
 - クアルタの運命は如何に！？
+
 """"
