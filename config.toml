@@ -27,7 +27,7 @@ hasCJKLanguage = true
 [params]
   # background = "#dddddd"
   # backgroundImage = "/me/background.jpg"
-  # backgroundImage = "/images/totoro024.jpg"
+  backgroundImage = "/images/totoro024.jpg"
   linkColor = "seagreen"
 
   # dark mode 

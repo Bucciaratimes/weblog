@@ -10,7 +10,7 @@ categories:
   - Argentina
 tags:
   - Argentina
-draft: true
+draft: false
 ---
 
 今回は最近の個人的な推しコロンバットに関してです。

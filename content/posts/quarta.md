@@ -10,7 +10,7 @@ categories:
   - Argentina
 tags:
   - Argentina
-draft: true
+draft: false
 ---
 
 CBのタレント不足を世界に露呈した18年W杯。もはやあのお笑い系CB２人とGKのプレーはハラスメントだったと思ってます。本当にイライラしました。
