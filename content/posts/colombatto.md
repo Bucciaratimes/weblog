@@ -9,7 +9,7 @@ cover: /images/colombatto.jpg
 categories:
   - Argentina
 tags:
-  - Argentina
+  - Colombatto
 draft: false
 ---
 
