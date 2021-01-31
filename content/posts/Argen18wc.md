@@ -1,5 +1,5 @@
 ---
-title: Argen in 2018World Cup
+title: 「アルヘンが世界一ィィィィ」って言うのは4年後なんかな
 date: 2019-03-31T23:00:23+09:00
 lastmod: 2020-01-31T23:00:23+09:00
 author: "Bucciarati"
