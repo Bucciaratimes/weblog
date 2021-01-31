@@ -2,54 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on BucciaraTimes</title>
-    <link>https://bucciaratimes.netlify.app/tags/</link>
+    <link>https://bucciaratimes.com/tags/</link>
     <description>Recent content in Tags on BucciaraTimes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>©️2020 Bucciarati All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 25 Jan 2021 14:21:25 +0900</lastBuildDate><atom:link href="https://bucciaratimes.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jan 2021 14:21:25 +0900</lastBuildDate><atom:link href="https://bucciaratimes.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dominguez</title>
-      <link>https://bucciaratimes.netlify.app/tags/dominguez/</link>
+      <link>https://bucciaratimes.com/tags/dominguez/</link>
       <pubDate>Mon, 25 Jan 2021 14:21:25 +0900</pubDate>
       
-      <guid>https://bucciaratimes.netlify.app/tags/dominguez/</guid>
+      <guid>https://bucciaratimes.com/tags/dominguez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LoCelso</title>
-      <link>https://bucciaratimes.netlify.app/tags/locelso/</link>
+      <link>https://bucciaratimes.com/tags/locelso/</link>
       <pubDate>Mon, 18 Jan 2021 16:06:44 +0900</pubDate>
       
-      <guid>https://bucciaratimes.netlify.app/tags/locelso/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>González</title>
-      <link>https://bucciaratimes.netlify.app/tags/gonz%C3%A1lez/</link>
-      <pubDate>Mon, 18 Jan 2021 16:05:36 +0900</pubDate>
-      
-      <guid>https://bucciaratimes.netlify.app/tags/gonz%C3%A1lez/</guid>
+      <guid>https://bucciaratimes.com/tags/locelso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quarta</title>
-      <link>https://bucciaratimes.netlify.app/tags/quarta/</link>
+      <link>https://bucciaratimes.com/tags/quarta/</link>
       <pubDate>Thu, 15 Oct 2020 17:58:26 +0900</pubDate>
       
-      <guid>https://bucciaratimes.netlify.app/tags/quarta/</guid>
+      <guid>https://bucciaratimes.com/tags/quarta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Colombatto</title>
-      <link>https://bucciaratimes.netlify.app/tags/colombatto/</link>
+      <link>https://bucciaratimes.com/tags/colombatto/</link>
       <pubDate>Tue, 08 Sep 2020 17:37:09 +0900</pubDate>
       
-      <guid>https://bucciaratimes.netlify.app/tags/colombatto/</guid>
+      <guid>https://bucciaratimes.com/tags/colombatto/</guid>
       <description></description>
     </item>
     

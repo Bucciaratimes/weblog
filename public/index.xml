@@ -2,54 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BucciaraTimes</title>
-    <link>https://bucciaratimes.netlify.app/</link>
+    <link>https://bucciaratimes.com/</link>
     <description>Recent content on BucciaraTimes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>©️2020 Bucciarati All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 25 Jan 2021 14:21:25 +0900</lastBuildDate><atom:link href="https://bucciaratimes.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jan 2021 14:21:25 +0900</lastBuildDate><atom:link href="https://bucciaratimes.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nico Dominguez</title>
-      <link>https://bucciaratimes.netlify.app/posts/nico_dominguez/</link>
+      <link>https://bucciaratimes.com/posts/nico_dominguez/</link>
       <pubDate>Mon, 25 Jan 2021 14:21:25 +0900</pubDate>
       
-      <guid>https://bucciaratimes.netlify.app/posts/nico_dominguez/</guid>
+      <guid>https://bucciaratimes.com/posts/nico_dominguez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Giovani Lo Celso</title>
-      <link>https://bucciaratimes.netlify.app/posts/locelso/</link>
+      <link>https://bucciaratimes.com/posts/locelso/</link>
       <pubDate>Mon, 18 Jan 2021 16:06:44 +0900</pubDate>
       
-      <guid>https://bucciaratimes.netlify.app/posts/locelso/</guid>
+      <guid>https://bucciaratimes.com/posts/locelso/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nicolás González</title>
-      <link>https://bucciaratimes.netlify.app/posts/nico_gonzalez/</link>
-      <pubDate>Mon, 18 Jan 2021 16:05:36 +0900</pubDate>
-      
-      <guid>https://bucciaratimes.netlify.app/posts/nico_gonzalez/</guid>
-      <description>&lt;p&gt;昨シーズンはブンデスリーガ2部でプレーし、リーグとカップ戦合わせて「29試合 15ゴール 4アシスト」という結果を残してクラブの1部昇格の原動力となったニコゴンサレス。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Lucas Martínez Quarta</title>
-      <link>https://bucciaratimes.netlify.app/posts/quarta/</link>
+      <link>https://bucciaratimes.com/posts/quarta/</link>
       <pubDate>Thu, 15 Oct 2020 17:58:26 +0900</pubDate>
       
-      <guid>https://bucciaratimes.netlify.app/posts/quarta/</guid>
+      <guid>https://bucciaratimes.com/posts/quarta/</guid>
       <description>&lt;p&gt;CBのタレント不足を世界に露呈した18年W杯。あのCB２人のプレーは人生最高のハラスメントだったと思ってます。本当にイライラしました。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Santiago Colombatto</title>
-      <link>https://bucciaratimes.netlify.app/posts/colombatto/</link>
+      <link>https://bucciaratimes.com/posts/colombatto/</link>
       <pubDate>Tue, 08 Sep 2020 17:37:09 +0900</pubDate>
       
-      <guid>https://bucciaratimes.netlify.app/posts/colombatto/</guid>
+      <guid>https://bucciaratimes.com/posts/colombatto/</guid>
       <description>&lt;p&gt;今回は最近個人的に推しているコロンバットに関してです。&lt;/p&gt;</description>
     </item>
     
