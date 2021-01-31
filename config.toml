@@ -1,4 +1,5 @@
-baseurl = "https://bucciaratimes.netlify.app/"
+# baseurl = "https://bucciaratimes.netlify.app/"
+baseurl = "https://bucciaratimes.com/"
 languageCode = "ja"
 defaultContentLanguage = "en"
 title = "BucciaraTimes"
