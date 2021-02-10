@@ -7,9 +7,9 @@ author: Author Name
 # authorlink: https://author.site
 cover: /img/cover.jpg
 categories:
-  - Argentina
+    - Argentina
 tags:
-  - Klimowicz
+    - Klimowicz
 draft: true
 ---
 

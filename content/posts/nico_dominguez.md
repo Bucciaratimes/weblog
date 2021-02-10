@@ -9,7 +9,7 @@ cover: /images/nicolas-dominguez.jpg
 catefories:
     - Argentina
 tags: 
-    - Dominguez
+    - N.Dominguez
 draft: false
 toc: true # table of contents 目次
 autoCollapseToc: false

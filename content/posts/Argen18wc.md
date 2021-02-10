@@ -1,5 +1,5 @@
 ---
-title: 「アルヘンが世界一ィィィィ」って言うのは4年後なんかな
+title: 「アルヘンこそ世界一ィィィィ」って言うのは4年後なんかな
 date: 2019-03-31T23:00:23+09:00
 lastmod: 2020-01-31T23:00:23+09:00
 author: "Bucciarati"
@@ -7,9 +7,9 @@ avatar: /images/author.jpg
 # authorlink: https://author.site
 cover: /images/messi_rossia.jpg
 catefories:
-    - ""
+    - "Argentina"
 tags: 
-    - "Argen"
+    - ""
 draft: false
 toc: true # table of contents 目次
 autoCollapseToc: false
@@ -20,7 +20,7 @@ autoCollapseToc: false
 
 前回のW杯はグループステージいや、南米予選から波瀾万丈だったアルヘン。とりあえず、ロシアW杯出場権獲得までを超簡単に振り返ってみる。
 
-## ロシアW杯出場権獲得までのみちのり。
+## ロシアW杯出場権獲得までのみちのり
 
 
 まず、最初の大きな変化がサべーラ監督の辞任だろう。サべーラは2011年にバティスタ前監督の辞任を受けて、アルゼンチン代表監督に就任し、「メッシ・システム」を用いて、南米予選首位通過、W杯準優勝と好成績をおさめた。近年で良い監督だったと言えるのはサベーラだけだと個人的には思ってる。
