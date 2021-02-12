@@ -63,7 +63,7 @@ hasCJKLanguage = true
   # LEANCLOUD_APP_KEY = ""
 
   email = "bucciaratimes@gmail.com"
-  twitter = "@BucciaraTimes"
+  twitter = "@Bucciaratimes"
   # facebook = ""
   # instagram = ""
   # mastodon = ""
@@ -74,7 +74,7 @@ hasCJKLanguage = true
 
   siteStartYear = 2020
 
-  favicon = "/images/favicon.ico"
+  # favicon = "/images/favicon.ico"
 
   highlightjs = true
   # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
@@ -93,3 +93,6 @@ hasCJKLanguage = true
   customCSS = ["css/custom.css"]
   customJS = []
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"

@@ -1,5 +1,5 @@
 ---
-title: Nico Dominguez
+title: Nicolás Dominguez
 date: 2021-01-25T14:21:25+09:00
 lastmod: 2021-01-25T14:21:25+09:00
 author: "Bucciarati"

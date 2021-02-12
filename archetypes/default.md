@@ -5,8 +5,7 @@ draft: false
 catefories:
     - ""
 tags: 
-    - "Argen"
-    - "Barca"
+    - ""
 author: "Bucciarati"
 avatar: /images/author.jpg
 toc: true # table of contents 目次
