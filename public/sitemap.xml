@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bucciaratimes.com/categories/argentina/</loc>
+    <lastmod>2021-01-25T14:21:25+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bucciaratimes.com/</loc>
     <lastmod>2021-01-25T14:21:25+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bucciaratimes.com/tags/n.dominguez/</loc>
+    <loc>https://bucciaratimes.com/categories/</loc>
+    <lastmod>2021-01-25T14:21:25+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bucciaratimes.com/tags/intro/</loc>
     <lastmod>2021-01-25T14:21:25+09:00</lastmod>
   </url>
   
@@ -28,33 +38,8 @@
   </url>
   
   <url>
-    <loc>https://bucciaratimes.com/categories/argentina/</loc>
-    <lastmod>2021-01-18T16:05:36+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bucciaratimes.com/categories/</loc>
-    <lastmod>2021-01-18T16:05:36+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bucciaratimes.com/tags/n.gonz%C3%A1lez/</loc>
-    <lastmod>2021-01-18T16:05:36+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bucciaratimes.com/posts/nico_gonzalez/</loc>
     <lastmod>2021-01-18T16:05:36+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bucciaratimes.com/posts/trinc%C3%A3o/</loc>
-    <lastmod>2021-01-10T00:02:28+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bucciaratimes.com/tags/trinc%C3%A3o/</loc>
-    <lastmod>2021-01-10T00:02:28+09:00</lastmod>
   </url>
   
   <url>
@@ -63,23 +48,8 @@
   </url>
   
   <url>
-    <loc>https://bucciaratimes.com/tags/quarta/</loc>
-    <lastmod>2020-12-17T17:58:26+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bucciaratimes.com/tags/colombatto/</loc>
-    <lastmod>2021-01-17T17:37:09+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bucciaratimes.com/posts/colombatto/</loc>
     <lastmod>2021-01-17T17:37:09+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bucciaratimes.com/tags/lautaro/</loc>
-    <lastmod>2019-10-31T23:12:24+09:00</lastmod>
   </url>
   
   <url>
@@ -88,7 +58,17 @@
   </url>
   
   <url>
+    <loc>https://bucciaratimes.com/tags/view/</loc>
+    <lastmod>2019-10-31T23:12:24+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bucciaratimes.com/posts/argen18wc/</loc>
+    <lastmod>2020-01-31T23:00:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bucciaratimes.com/tags/worldcup/</loc>
     <lastmod>2020-01-31T23:00:23+09:00</lastmod>
   </url>
   
