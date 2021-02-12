@@ -1,5 +1,5 @@
 ---
-title: Nicolás González
+title: Intro：Nicolás González
 date: 2021-01-18T16:05:36+09:00
 lastmod: 2021-01-18T16:05:36+09:00
 author: Bucciarati
@@ -9,7 +9,7 @@ cover: /images/nico-gonzalez.jpg
 categories:
     - "Argentina"
 tags:
-    - "N.González"
+    - "Intro"
 draft: false
 ---
 

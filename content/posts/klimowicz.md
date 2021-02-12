@@ -1,15 +1,15 @@
 ---
-title: Mateo Klimowicz
+title: Intro：Mateo Klimowicz
 date: 2021-01-22T00:48:06+09:00
 lastmod: 2021-01-22T00:48:06+09:00
 author: Author Name
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /img/cover.jpg
+cover: /images/klimowicz.jpg
 categories:
-    - Argentina
+    - "Argentina"
 tags:
-    - Klimowicz
+    - "Intro"
 draft: true
 ---
 

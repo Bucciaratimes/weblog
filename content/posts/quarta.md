@@ -1,14 +1,14 @@
 ---
-title: Lucas Martínez Quarta 
+title: Intro：Lucas Martínez Quarta 
 date: 2020-10-15T17:58:26+09:00
 lastmod: 2020-12-17T17:58:26+09:00
 author: Bucciarati
 avatar: /images/author.jpg
 cover: /images/martinez-quarta.jpg
 categories:
-    - Argentina
+    - "Argentina"
 tags:
-    - Quarta
+    - "Intro"
 draft: false
 ---
 

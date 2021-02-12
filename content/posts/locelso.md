@@ -1,15 +1,15 @@
 ---
-title: Giovani Lo Celso 
+title: Intro：Giovani Lo Celso 
 date: 2021-01-18T16:06:44+09:00
 lastmod: 2021-01-18T16:06:44+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 # authorlink: https://author.site
 cover: /images/locelso_paris2.jpg
-catefories:
-    - Argentina
+categories:
+    - "Argentina"
 tags: 
-    - LoCelso
+    - "Intro"
 draft: true
 toc: true # table of contents 目次
 autoCollapseToc: false

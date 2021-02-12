@@ -50,8 +50,8 @@ hasCJKLanguage = true
   description = "Bucciaratimes is weblog site about Football, especially Argentina & Barcelona"
   avatar = "/images/author.jpg"
   headerTitle = "Bucciarati"
-  motto = "I'm 22. Football Lover in Japan."
-  categoriesLimitInHeader = 6
+  motto = "Love Barcelona & Argentina!!"
+  categoriesLimitInHeader = 8
   # headerBottomText = ""
 
   rss = true
