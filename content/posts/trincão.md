@@ -5,7 +5,7 @@ lastmod: 2021-01-10T00:02:28+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 # authorlink: https://author.site
-cover: /images/trincao.jpg
+cover: /images/trincao_cover.jpg
 categories:
     - "Barcelona"
 tags: 
