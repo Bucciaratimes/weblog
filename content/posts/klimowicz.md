@@ -13,7 +13,7 @@ tags:
 draft: true
 ---
 
-Cut out summary from your post content here.
+正直まさかここまで出場機会を貰えると思ってませんでした。
 
 <!--more-->
 
