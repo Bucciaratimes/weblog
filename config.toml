@@ -6,7 +6,7 @@ title = "BucciaraTimes"
 theme = "dream"
 copyright = '©️2020 Bucciarati All Rights Reserved'
 
-# googleAnalytics = ""
+googleAnalytics = "UA-190315712-1"
 
 disqusShortname = "Bucciarati"
 

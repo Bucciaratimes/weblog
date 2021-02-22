@@ -1,5 +1,5 @@
 ---
-title: Intro：Santiago Colombatto 
+title: Intro ＃1：Santiago Colombatto 
 date: 2020-09-08T17:37:09+09:00
 lastmod: 2021-01-17T17:37:09+09:00
 author: Bucciarati
@@ -13,8 +13,8 @@ tags:
 draft: false
 ---
 
-今回は最近個人的に推しているコロンバットに関してです。
-
+アルヘンの期待の若手を光を当てるシリーズ「Intro」。
+記念すべき＃１は最近推しているコロンバットです。
 
 <!--more-->
 
