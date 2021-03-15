@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on BucciaraTimes</title>
-    <link>https://bucciaratimes.com/categories/</link>
+    <link>https://bucciaratimes.info/categories/</link>
     <description>Recent content in Categories on BucciaraTimes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>©️2020 Bucciarati All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 22 Feb 2021 19:44:46 +0900</lastBuildDate><atom:link href="https://bucciaratimes.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Feb 2021 19:44:46 +0900</lastBuildDate><atom:link href="https://bucciaratimes.info/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Argentina</title>
-      <link>https://bucciaratimes.com/categories/argentina/</link>
+      <link>https://bucciaratimes.info/categories/argentina/</link>
       <pubDate>Mon, 22 Feb 2021 19:44:46 +0900</pubDate>
       
-      <guid>https://bucciaratimes.com/categories/argentina/</guid>
+      <guid>https://bucciaratimes.info/categories/argentina/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Barcelona</title>
-      <link>https://bucciaratimes.com/categories/barcelona/</link>
+      <link>https://bucciaratimes.info/categories/barcelona/</link>
       <pubDate>Sun, 27 Dec 2020 00:12:20 +0900</pubDate>
       
-      <guid>https://bucciaratimes.com/categories/barcelona/</guid>
+      <guid>https://bucciaratimes.info/categories/barcelona/</guid>
       <description></description>
     </item>
     
