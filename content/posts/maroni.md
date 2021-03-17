@@ -5,7 +5,7 @@ lastmod: 2021-02-22T19:44:46+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 # authorlink: https://author.site
-cover: /images/maroni_cover.jpg
+cover: /images/maroni-sampdoria.jpg
 categories:
     - "Argentina"
 tags: 
