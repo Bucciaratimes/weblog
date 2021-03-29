@@ -1,5 +1,5 @@
 ---
-title: Intro：Nicolás Dominguez
+title: Intro ＃6：Nicolás Dominguez
 date: 2021-01-25T14:21:25+09:00
 lastmod: 2021-01-25T14:21:25+09:00
 author: "Bucciarati"
