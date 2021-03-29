@@ -27,12 +27,12 @@ autoCollapseToc: false
 
 今シーズンのマックアリスターは3412のトップ下、3421の２シャドーの一角、532の3センターの一角で主に起用されていますので、そのポジション的にはトロサール、ララーナ、ビスマ、プロパー、グロスが候補に挙げられるでしょう。
 
-{{< figure src="/images/report/area_main.png" width="100%" >}}
+![figure1](/images/report/area_main.png) 
 
 上記５人のタッチしたエリアを集計して図を作ってみましたが、ララーナ、グロス、マックアリスターは非常に似たエリア分布を示しました。
 トロサールに関してはより攻撃的なエリアでプレーする機会が多いように見えますが、とりあえずライバルと見なして良さそうな範囲の分布です。
 
-{{< figure src="/images/report/area_main2.png" width="100%" >}}
+![figure2](/images/report/area_main2.png) 
 
 プロパー、ビスマに関してはミドルサードでの仕事が多いように見えますので除外して良さそうです。
 ということで、とりあえずマックアリスターの競争相手はトロサール、ララーナ、グロスと考えます。
@@ -41,7 +41,8 @@ autoCollapseToc: false
 
 ## 現状
 
-{{< figure src="/images/report/mac_time.png" width="100%">}}
+![figure3](/images/report/mac_time.png) 
+
 
 上図は3試合ずつの平均プレー時間を折れ線グラフで表したものです。
 
@@ -56,7 +57,7 @@ autoCollapseToc: false
 上記の通り、年末から2月にかけてスタメンに定着したかのように見えたマックアリスターでしたが、3月以降はベンチスターターに戻りつつあります。
 では何が評価されてスタメンで起用され、何が物足りなくてスタメン落ちが増えたのでしょうか？
 
-{{< figure src="/images/report/mac_scatter.png" width="100%">}}
+![figure4](/images/report/mac_scatter.png) 
 
 上図はX軸に「インターセプト＋タックル」、Y軸に「プレス試行回数」をとったものです。十字の点線がそれぞれの平均値を示しています。
 
@@ -69,13 +70,13 @@ autoCollapseToc: false
 
 スタメン起用の増加と同時に課題として見えてきたのが得点に関与するプレーの少なさです。
 
-{{< figure src="/images/report/mac_scatter2.png" width="100%">}}
+![figure5](/images/report/mac_scatter2.png) 
 
 nPxGとxAを合わした数字はチームの平均と一致しており、SCAはチーム平均を僅かに下回っていることが分かります
 トロサール、グロスは両軸ともに平均を上回っています。ララーナも僅かに平均以上の数字を残していることが分かります。
 もちろん守備での貢献を差し引けばイーブンとも言えなくもないですが、マックアリスターは攻撃的MFですからそれを言い訳にしたくありません。
 
-{{< figure src="/images/report/mac_scatter3.png" width="100%">}}
+![figure6](/images/report/mac_scatter3.png) 
 
 上図は期待値ではなく実際の数字の散布図です。
 マックアリスターは同様に平均的な数字だということ、ララーナはこの2軸ではともに平均以下の成績を示していることが分かります。
@@ -89,15 +90,15 @@ nPxGとxAを合わした数字はチームの平均と一致しており、SCA�
 つまりスペースを作る動きとそのスペースに入る動きを巧みに行えるかが活躍する上で重要な要素になるのです。
 ララーナはここら辺が非常に上手いと思います。
 
-{{< figure src="/images/report/mac_scatter2.5.png" width="100%">}}
+![figure7](/images/report/mac_scatter2.5.png) 
 
 上図では注目して欲しいのはY軸です。Y軸は90分あたりにパスを受ける回数を示しています。
 マックアリスターが40回程度に対して、ララーナは50強パスをもらってます。（グロスは更に貰ってますね。）
 3412のトップ下をやるにしても、532の３センターをやるにしても上手くボールを引き出して、後ろと前をリンクさせることが求められますから、ここの質を重要視するのは理解できます。
 
-{{< figure src="/images/report/mac_passrange_main.png" width="100%">}}
+![figure8](/images/report/mac_passrange_main.png) 
 
-{{< figure src="/images/report/mac_scatter5.png" width="100%">}}
+![figure9](/images/report/mac_scatter5.png) 
 
 他にも絶対的な評価としてマックアリスターは運ぶドリブルであったりミドルレンジのロブパスに課題を感じてますが、上図を見るとこの競争関係においてはネックになってるとは言えないのでやはりレシーブ能力に不足を感じてそうです。
 
