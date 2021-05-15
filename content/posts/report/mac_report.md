@@ -5,7 +5,7 @@ lastmod: 2021-03-23T22:19:48+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 # authorlink: https://author.site
-cover: /images/report/mac_scatter.png
+cover: /images/report/logo.png
 categories:
     - "Argentina"
 tags: 

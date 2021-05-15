@@ -9,7 +9,7 @@ cover: /images/trincao_cover.jpg
 categories:
     - "Barcelona"
 tags: 
-    - "Intro"
+    - "View"
 draft: false
 toc: true # table of contents 目次
 autoCollapseToc: false
@@ -22,7 +22,7 @@ autoCollapseToc: false
 
 先日、こんなツイートをかましたのですが、一向にトリンカオンの調子は上向いてきません。というか寧ろ下向いてきています。
 
-{{<tweet 1334250273477259264>}}
+{{<tweet 1334250273477259264>}}s
 
 正直、今このツイートしなければ良かったと思ってます。
 

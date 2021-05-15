@@ -9,7 +9,7 @@ cover: /images/messi_rossia.jpg
 categories:
     - "Argentina"
 tags: 
-    - "WorldCup"
+    - "View"
 draft: false
 toc: true # table of contents 目次
 autoCollapseToc: false

@@ -9,7 +9,7 @@ cover: /images/pedri_cover2.jpg
 categories:
     - "Barcelona"
 tags: 
-    - "Intro"
+    - "View"
 draft: false
 toc: true # table of contents 目次
 autoCollapseToc: false
