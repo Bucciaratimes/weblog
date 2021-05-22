@@ -4,7 +4,7 @@ date: 2020-09-08T17:37:09+09:00
 lastmod: 2021-01-17T17:37:09+09:00
 author: Bucciarati
 avatar: /images/author.jpg
-# authorlink: https://author.site
+authorlink: https://twitter.com/Bucciaratimes
 cover: /images/santiago_colombatto.jpg
 categories:
     - "Argentina"
