@@ -1,7 +1,6 @@
 ---
 title: Intro ＃7：Juan Brunetta
 date: 2021-05-15T00:26:06+09:00
-lastmod: 2021-05-15T00:26:06+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 authorlink: https://twitter.com/Bucciaratimes

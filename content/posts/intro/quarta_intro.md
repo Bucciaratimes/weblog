@@ -1,7 +1,6 @@
 ---
 title: Intro ＃2：Lucas Martínez Quarta 
 date: 2020-10-15T17:58:26+09:00
-lastmod: 2020-12-17T17:58:26+09:00
 author: Bucciarati
 avatar: /images/author.jpg
 authorlink: https://twitter.com/Bucciaratimes

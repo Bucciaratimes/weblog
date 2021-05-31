@@ -1,7 +1,6 @@
 ---
 title: Intro ＃4：Gonzalo Maroni
 date: 2021-02-22T19:44:46+09:00
-lastmod: 2021-02-22T19:44:46+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 # authorlink: https://author.site

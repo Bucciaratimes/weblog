@@ -1,10 +1,9 @@
 ---
 title: Pedri：「Are you Andres Iniesta ? 」
 date: 2020-10-30T01:49:18+00:00
-lastmod: 2020-12-14T08:39:20+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
-# authorlink: https://author.site
+authorlink: https://twitter.com/Bucciaratimes
 cover: /images/pedri_cover2.jpg
 categories:
     - "Barcelona"

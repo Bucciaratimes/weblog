@@ -1,7 +1,6 @@
 ---
 title: Intro ＃8：Cristian Romero
 date: 2021-03-23T22:22:34+09:00
-lastmod: 2021-03-23T22:22:34+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 authorlink: https://twitter.com/Bucciaratimes

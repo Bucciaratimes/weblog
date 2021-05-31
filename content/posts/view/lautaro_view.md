@@ -1,10 +1,9 @@
 ---
 title: Lautaro > Felix ??
 date: 2019-10-02T23:12:24+09:00
-lastmod: 2019-10-31T23:12:24+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
-# authorlink: https://author.site
+authorlink: https://twitter.com/Bucciaratimes
 cover: /images/lautaro_racing.jpg
 categories:
     - "Argentina"

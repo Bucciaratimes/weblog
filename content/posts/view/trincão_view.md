@@ -1,7 +1,6 @@
 ---
 title: Francisco Trincão：「T」のススメ
 date: 2020-12-27T00:12:20+09:00
-lastmod: 2021-01-10T00:02:28+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 # authorlink: https://author.site

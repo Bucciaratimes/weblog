@@ -1,7 +1,6 @@
 ---
 title:  Intro ＃5：Alexis Mac Allister
 date: 2021-03-18T21:42:53+09:00
-lastmod: 2021-03-18T21:42:53+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 authorlink: https://twitter.com/Bucciaratimes

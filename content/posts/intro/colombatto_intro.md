@@ -1,7 +1,6 @@
 ---
 title: Intro ＃1：Santiago Colombatto 
 date: 2020-09-08T17:37:09+09:00
-lastmod: 2021-01-17T17:37:09+09:00
 author: Bucciarati
 avatar: /images/author.jpg
 authorlink: https://twitter.com/Bucciaratimes
