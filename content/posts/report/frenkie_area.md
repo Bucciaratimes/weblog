@@ -1,10 +1,9 @@
 ---
 title: BtoBなフレンキーよりもリベロなフレンキーが好き
 date: 2021-05-22T14:11:29+09:00
-lastmod: 2021-05-22T14:11:29+09:00
+authorlink: https://twitter.com/Bucciaratimes
 author: "Bucciarati"
 avatar: /images/author.jpg
-# authorlink: https://author.site
 cover: /images/cover.jpg
 categories:
     - "Barcelona"
