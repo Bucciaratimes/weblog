@@ -1,10 +1,9 @@
 ---
 title: Report ＃1 ：Alexis Mac Allister
 date: 2021-03-23T22:19:48+09:00
-lastmod: 2021-03-23T22:19:48+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
-# authorlink: https://author.site
+authorlink: https://twitter.com/Bucciaratimes
 cover: /images/report/logo.png
 categories:
     - "Argentina"

@@ -5,10 +5,24 @@ lastmod: 2021-01-17T15:42:29+09:00
 draft: false
 ---
 
-「劇的敗退も完敗も栄光のフリでしかない」をモットーにバルサとアルヘンを一生懸命応援する22歳です。
+Hi! My name is Bucciaratin da ポテイト.
 
+This is my blog. if you like FootBall,
+we are to be good friend.
 
+Favorite team -> Barcelona , Argentina
 
+Favorite food -> カルボナーラ
 
+Favorite music -> 1975
 
+Favorite movie -> Kes
+
+Favorite player -> Messi
+
+Mac or Windows ->　Mac
+
+iPhone or Android -> Android
+
+Favorite brand -> Issey miyake
 

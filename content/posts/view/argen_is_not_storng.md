@@ -1,10 +1,9 @@
 ---
 title: アルゼンチンの才能が枯渇してる？？
 date: 2021-02-14T17:15:22+09:00
-lastmod: 2021-02-14T17:15:22+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
-# authorlink: https://author.site
+authorlink: https://twitter.com/Bucciaratimes
 cover: /images/cover.jpg
 categories:
     - "Argentina"
