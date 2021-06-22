@@ -3,23 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bucciaratimes.info/categories/argentina/</loc>
-    <lastmod>2021-03-23T22:19:48+09:00</lastmod>
+    <loc>https://bucciaratimes.info/categories/barcelona/</loc>
+    <lastmod>2021-05-22T14:11:29+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://bucciaratimes.info/</loc>
-    <lastmod>2021-03-23T22:19:48+09:00</lastmod>
+    <lastmod>2021-05-22T14:11:29+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://bucciaratimes.info/categories/</loc>
-    <lastmod>2021-03-23T22:19:48+09:00</lastmod>
+    <lastmod>2021-05-22T14:11:29+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://bucciaratimes.info/posts/</loc>
-    <lastmod>2021-03-23T22:19:48+09:00</lastmod>
+    <lastmod>2021-05-22T14:11:29+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bucciaratimes.info/posts/report/frenkie_area/</loc>
+    <lastmod>2021-05-22T14:11:29+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bucciaratimes.info/categories/argentina/</loc>
+    <lastmod>2021-05-15T00:26:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bucciaratimes.info/tags/intro/</loc>
+    <lastmod>2021-05-15T00:26:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bucciaratimes.info/posts/intro/brunetta_intro/</loc>
+    <lastmod>2021-05-15T00:26:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bucciaratimes.info/tags/</loc>
+    <lastmod>2021-05-15T00:26:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bucciaratimes.info/posts/intro/romero_intro/</loc>
+    <lastmod>2021-05-10T17:07:37+09:00</lastmod>
   </url>
   
   <url>
@@ -30,16 +60,6 @@
   <url>
     <loc>https://bucciaratimes.info/posts/report/mac_report/</loc>
     <lastmod>2021-03-23T22:19:48+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bucciaratimes.info/tags/</loc>
-    <lastmod>2021-03-23T22:19:48+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bucciaratimes.info/tags/intro/</loc>
-    <lastmod>2021-03-18T21:42:53+09:00</lastmod>
   </url>
   
   <url>
@@ -63,47 +83,37 @@
   </url>
   
   <url>
-    <loc>https://bucciaratimes.info/categories/barcelona/</loc>
-    <lastmod>2021-01-10T00:02:28+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bucciaratimes.info/posts/view/trinc%C3%A3o_view/</loc>
-    <lastmod>2021-01-10T00:02:28+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bucciaratimes.info/posts/view/pedri_view/</loc>
-    <lastmod>2020-12-14T08:39:20+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bucciaratimes.info/posts/intro/quarta_intro/</loc>
-    <lastmod>2020-12-17T17:58:26+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bucciaratimes.info/posts/intro/colombatto_intro/</loc>
-    <lastmod>2021-01-17T17:37:09+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bucciaratimes.info/posts/view/lautaro_view/</loc>
-    <lastmod>2019-10-31T23:12:24+09:00</lastmod>
+    <lastmod>2020-12-27T00:12:20+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://bucciaratimes.info/tags/view/</loc>
-    <lastmod>2019-10-31T23:12:24+09:00</lastmod>
+    <lastmod>2020-12-27T00:12:20+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bucciaratimes.info/posts/wcup1/</loc>
-    <lastmod>2020-01-31T23:00:23+09:00</lastmod>
+    <loc>https://bucciaratimes.info/posts/view/pedri_view/</loc>
+    <lastmod>2020-10-30T01:49:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bucciaratimes.info/tags/worldcup/</loc>
+    <loc>https://bucciaratimes.info/posts/intro/quarta_intro/</loc>
+    <lastmod>2020-10-15T17:58:26+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bucciaratimes.info/posts/intro/colombatto_intro/</loc>
+    <lastmod>2020-09-08T17:37:09+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bucciaratimes.info/posts/view/lautaro_view/</loc>
+    <lastmod>2019-10-02T23:12:24+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bucciaratimes.info/posts/view/wcup1/</loc>
     <lastmod>2020-01-31T23:00:23+09:00</lastmod>
   </url>
   

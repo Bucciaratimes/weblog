@@ -4,7 +4,7 @@ date: 2020-10-30T01:49:18+00:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 authorlink: https://twitter.com/Bucciaratimes
-cover: /images/pedri_cover2.jpg
+cover: /images/report/pedri_cover2.jpg
 categories:
     - "Barcelona"
 tags: 

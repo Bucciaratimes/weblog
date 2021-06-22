@@ -89,6 +89,15 @@ hasCJKLanguage = true
   showSummaryCoverInPost = true
   hasTwitterEmbed = true
 
+  # Twitter card config
+  # Enable with this.
+  twitterCardEnabled = true
+  # Don't include the @.
+  # twitterCardSite =
+  # Don't include the @.
+  twitterCardAuthor = "Bucciaratimes"
+
+
 [params.advanced]
   customCSS = ["css/custom.css"]
   customJS = []

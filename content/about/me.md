@@ -7,9 +7,6 @@ draft: false
 
 Hi! My name is Bucciaratin da ポテイト.
 
-This is my blog. if you like FootBall,
-we are to be good friend.
-
 Favorite team -> Barcelona , Argentina
 
 Favorite food -> カルボナーラ
@@ -23,6 +20,4 @@ Favorite player -> Messi
 Mac or Windows ->　Mac
 
 iPhone or Android -> Android
-
-Favorite brand -> Issey miyake
 

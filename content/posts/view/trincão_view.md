@@ -4,7 +4,7 @@ date: 2020-12-27T00:12:20+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 # authorlink: https://author.site
-cover: /images/trincao_cover.jpg
+cover: /images/report/trincao_cover1.jpeg
 categories:
     - "Barcelona"
 tags: 

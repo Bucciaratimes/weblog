@@ -1,6 +1,7 @@
 ---
-title: Lautaro > Felix ??
+title: フェリックスよりラウタロな件について
 date: 2019-10-02T23:12:24+09:00
+lastmod: 2020-02-14T00:02:23+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 authorlink: https://twitter.com/Bucciaratimes
