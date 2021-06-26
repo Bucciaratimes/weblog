@@ -1,7 +1,7 @@
 ---
 title: フレンキー、リーガで最も価値ある選手みたいなんだけど、これどう考えてもチャンスでしょ。
 date: 2021-06-25T14:11:29+09:00
-lastmod: 2021-06-14T00:02:23+09:00
+lastmod: 2021-06-14T00:03:23+09:00
 authorlink: https://twitter.com/Bucciaratimes
 author: "Bucciarati"
 avatar: /images/author.jpg
