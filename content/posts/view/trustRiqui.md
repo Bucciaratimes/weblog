@@ -1,11 +1,11 @@
 ---
-title: リキプーチを信じろ
+title: ＃0 リキプーチを信じろ
 date: 2021-07-23T17:52:05+09:00
 　lastmod: 2021-07-23T17:52:05+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 authorlink: https://twitter.com/Bucciaratimes
-cover: /images/cover.jpg
+cover: /images/riquiImage3.jpg
 categories:
     - "Barcelona"
 tags: 
