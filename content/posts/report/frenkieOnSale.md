@@ -110,9 +110,8 @@ CBとしては強度、アンカーとしては落ち着きが無く、インサ
 そんな選手を1億ユーロで売却できるっていうなら、まあアリかなっていう気はするんですよね。
 それこそクーマン期の象徴として輝いて、クーマン期の終わりと共にバルサに1億ユーロ残して別のクラブに活躍の場を移すとか結構良さげだと思います。
 
-<!-- ### 成果のデータ。 -->
+
 <!-- [紹介文]({{< ref "/posts/intro/maroni_intro.md" >}})  
-<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 54.0625%; padding-top: 120px;"><a href="https://bucciaratimes.info/posts/view/trinc%C3%A3o_view/" data-iframely-url="//cdn.iframe.ly/Yx7gQuc"></a></div></div>
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://bucciaratimes.info/posts/view/trinc%C3%A3o_view/" data-iframely-url="//cdn.iframe.ly/Yx7gQuc?card=small"></a></div></div>
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://bucciaratimes.info/posts/view/trinc%C3%A3o_view/" data-iframely-url="//cdn.iframe.ly/Yx7gQuc?card=small"></a></div></div> -->
 <script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
