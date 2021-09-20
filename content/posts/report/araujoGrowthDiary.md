@@ -1,10 +1,10 @@
 ---
-title: Coutinho_pos
-date: 2021-05-29T08:48:17+09:00
-lastmod: 2021-05-29T08:48:17+09:00
+title: AraujoGrowthDiary
+date: 2021-09-11T15:49:59+09:00
+　lastmod: 2021-09-11T15:49:59+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
-# authorlink: https://author.site
+authorlink: https://twitter.com/Bucciaratimes
 cover: /images/cover.jpg
 categories:
     - "Barcelona"
