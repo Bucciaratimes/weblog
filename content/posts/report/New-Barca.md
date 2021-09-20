@@ -67,29 +67,29 @@ autoCollapseToc: false
 
 ##### 90分あたりのパス被供給数
 
-1. Lionel Messi        ｜ 40.44642857142857
-2. Philippe Coutinho   ｜ 40.136986301369866
-3. Jordi Alba          ｜ 34.82142857142857
-4. Pedri               ｜ 30.634328358208954
-5. Ousmane Dembélé     ｜ 30.101522842639596
-6. Ansu Fati            ｜ 25.416666666666668
-7. Sergio Busquets     ｜ 23.857142857142858
-8. Antoine Griezmann    ｜ 22.975778546712803
-9. Frenkie de Jong      ｜ 22.485714285714284
+1. Lionel Messi        ｜ 40.4464
+2. Philippe Coutinho   ｜ 40.1369
+3. Jordi Alba          ｜ 34.8214
+4. Pedri               ｜ 30.6343
+5. Ousmane Dembélé     ｜ 30.1015
+6. Ansu Fati            ｜ 25.416
+7. Sergio Busquets     ｜ 23.8571
+8. Antoine Griezmann    ｜ 22.9757
+9. Frenkie de Jong      ｜ 22.4857
 
 当然パスが集まれば、パスをする回数も増えますから、アタッキングサード以降で最もパスを出しているのもメッシです。以下は90分あたりの値です。
 
 ##### 90分あたりのパス供給数
 
-1. Lionel Messi        ｜ 42.67857142857142
-2. Philippe Coutinho   ｜ 40.136986301369866
-3. Jordi Alba          ｜ 37.529761904761905
-4. Ousmane Dembélé     ｜ 33.85786802030457
-5. Pedri               ｜ 32.014925373134325
-6. Sergio Busquets     ｜ 25.535714285714285
-7. Ansu Fati            ｜ 25.0181038062286
-8. Antoine Griezmann    ｜ 25.017301038062286
-9. Frenkie de Jong      ｜ 23.02857142857143
+1. Lionel Messi        ｜ 42.6785
+2. Philippe Coutinho   ｜ 40.1369
+3. Jordi Alba          ｜ 37.529761
+4. Ousmane Dembélé     ｜ 33.857868
+5. Pedri               ｜ 32.014925
+6. Sergio Busquets     ｜ 25.5358
+7. Ansu Fati            ｜ 25.0181
+8. Antoine Griezmann    ｜ 25.017301
+9. Frenkie de Jong      ｜ 23.028571
 
 とりあえず以上の図と表をみて、如何にメッシがバルサの攻撃の中心にいたか再確認することができたと思います。
 
@@ -146,21 +146,21 @@ autoCollapseToc: false
 ##### 90分あたりのパス被供給数
 
 1. Jordi Alba          ｜ 29.0
-2. Memphis Depay   ｜ 19.333333333333332
-3. Pedri               ｜ 17.235294117647058
-4. Frenkie de Jong      ｜ 14.285714285714286
-5. Antoine Griezmann    ｜ 11.724137931034484
-6. Sergio Busquets     ｜ 7.931034482758621
+2. Memphis Depay   ｜ 19.333333
+3. Pedri               ｜ 17.2352941
+4. Frenkie de Jong      ｜ 14.28571
+5. Antoine Griezmann    ｜ 11.72413
+6. Sergio Busquets     ｜ 7.9310
 7. BraithWaite  | 6.8
 
 ##### 90分あたりのパス供給数
 
 1. Jordi Alba          ｜ 29.0
-2. Memphis Depay   ｜ 19.666666666666668
-3. Pedri               ｜ 17.235294117647058
-4. Frenkie de Jong      ｜ 14.285714285714286
-5. Antoine Griezmann    ｜ 11.724137931034484
-6. Sergio Busquets     ｜ 7.931034482758621
+2. Memphis Depay   ｜ 19.66666
+3. Pedri               ｜ 17.2352
+4. Frenkie de Jong      ｜ 14.2857
+5. Antoine Griezmann    ｜ 11.7241
+6. Sergio Busquets     ｜ 7.9310
 7. BraithWaite  | 6.8
 
 昨シーズンはMF・FWの選手は20〜40回パスを出して貰っていましたが、今シーズンは6〜30となっており、大幅に減少しています。ブスケツに関しては70％減ですから、ここでもメッシが退団して如何に相手を押し込めなくなったか、バイタルでボールを回せなくなったかが分かりますね。
