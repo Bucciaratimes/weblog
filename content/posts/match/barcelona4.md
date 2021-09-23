@@ -10,7 +10,7 @@ categories:
     - "Barcelona"
 tags: 
     - ""
-draft: true
+draft: false
 toc: true # table of contents 目次
 autoCollapseToc: false
 ---
