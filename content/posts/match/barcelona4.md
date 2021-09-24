@@ -65,7 +65,7 @@ autoCollapseToc: false
 
 ３節までと比べるとサイドバックを利用して、かなり押し込んでることが分かります。（※３節までのネットワーク図は以下。）
 
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://bucciaratimes.info/posts/match/new-barca/" data-iframely-url="//cdn.iframe.ly/RdsAhaL?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://bucciaratimes.info/posts/match/new_barca/" data-iframely-url="//cdn.iframe.ly/8XjC8nK?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 <br>
 
