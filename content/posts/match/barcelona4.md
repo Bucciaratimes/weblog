@@ -65,7 +65,8 @@ autoCollapseToc: false
 
 ３節までと比べるとサイドバックを利用して、かなり押し込んでることが分かります。（※３節までのネットワーク図は以下。）
 
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://bucciaratimes.info/posts/report/new-barca/" data-iframely-url="//cdn.iframe.ly/RdsAhaL?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://bucciaratimes.info/posts/match/new-barca/" data-iframely-url="//cdn.iframe.ly/RdsAhaL?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+
 <br>
 
 これは冒頭に書いた通り、早い段階でグラナダが得点を奪ったことで守りに比重を置いたことが大きかったのだと思います。
