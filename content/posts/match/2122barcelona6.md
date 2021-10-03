@@ -1,6 +1,6 @@
 ---
 title: La Liga 21/22 4節 Barcelona vs Levante 
-date: 2021-10-03T12:59:58+09:00
+date: 2021-10-01T12:59:58+09:00
 lastmod: 2021-10-03T12:59:58+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
