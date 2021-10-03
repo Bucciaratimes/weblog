@@ -1,5 +1,5 @@
 ---
-title: La Liga 21/22 4節 Cadiz vs Barcelona 
+title: La Liga 21/22 5節 Cadiz vs Barcelona 
 date: 2021-09-25T19:19:29+09:00
 lastmod: 2021-09-25T19:19:29+09:00
 author: "Bucciarati"

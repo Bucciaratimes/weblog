@@ -1,5 +1,5 @@
 ---
-title: La Liga 21/22 5節 Barcelona vs Levante 
+title: La Liga 21/22 6節 Barcelona vs Levante 
 date: 2021-10-01T12:59:58+09:00
 lastmod: 2021-10-03T12:59:58+09:00
 author: "Bucciarati"
