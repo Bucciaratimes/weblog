@@ -31,9 +31,18 @@
   <meta name="og:image" content="{{ .Site.BaseURL }}{{ .Params.eyecatch }}">
 
   <!-- Twitter Card Summary with large image -->
+  <!--
   <meta name="twitter:card" content="summary_large_image" /></meta>
 
   <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.eyecatch }}"></meta>
+  -->
+  {{ with .Params.twitterImage }}
+  <!-- Twitter summary card with large image must be at least 280x150px -->
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:image:src" content="{{ print $.Site.BaseURL . }}"/>
+  {{ else }}
+    <meta name="twitter:card" content="summary"/>
+  {{ end }}
 
 
 <!--End Y.sawamura-->
