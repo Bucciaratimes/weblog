@@ -37,7 +37,6 @@
 
   {{ with .Params.cover }}
     <meta property="og:image" content="{{ . | absURL }}">
-    <meta property="og:image:url" content="{{ . | absURL }}">
     <meta property="og:image:url" content="{{ $.Site.BaseURL }}{{ $.Params.cover }}">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:app:name:iphone" content="{{ $.Site.Title }}">
