@@ -13,6 +13,7 @@ tags:
 draft: false
 toc: true # table of contents 目次
 autoCollapseToc: false
+twitterImage: "/images/report/pedriFor/image1.jpg"
 ---
 <br>
 クラブ史上最高額の移籍金でバルサに加入したコウチーニョ選手。結果は大スベリ。スベって終わるならまだいいんですけど、
