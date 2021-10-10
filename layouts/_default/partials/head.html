@@ -25,10 +25,11 @@
 
 <!--Add Y.sawamura-->
   
-  <!-- og images -->
+  <!-- og images 
   <meta name="thumbnail" content="{{ .Site.BaseURL }}{{ .Params.eyecatch }}"/>
 
-  <meta name="og:image" content="{{ .Site.BaseURL }}{{ .Params.eyecatch }}">
+  <meta name="og:image:url" content="{{ . | absURL }}">
+  -->
 
   <!-- Twitter Card Summary with large image -->
   <!--
@@ -39,11 +40,11 @@
 {{ with .Params.twitterImage }}
   <!-- Twitter summary card with large image must be at least 280x150px -->
     <meta name="twitter:card" content="summary_large_image"/>
-    <meta name="twitter:image:src" content="{{ .Site.BaseURL }}{{ .Params.eyecatch }}"/>
+    <meta name="twitter:image:url" content="{{ . | absURL }}"/>
   {{ else }}
     <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:image:src" content="{{ .Site.BaseURL }}{{ .Params.eyecatch }}"/>
-  {{ end }}
+    <meta name="twitter:image:url" content="{{ . | absURL }}"/>
+{{ end }}
 
 
 <!--End Y.sawamura-->
