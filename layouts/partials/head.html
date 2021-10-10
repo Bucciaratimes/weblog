@@ -33,7 +33,7 @@
 <meta property="og:url" content="https://hugo-theme-inkblotty.netlify.com/placeholder-text/">
 {{ with .Params.twitterImage }}
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image:src" content="{{ print $.Site.BaseURL . }}"/>
+<meta name="twitter:image:src" content="{{ Site.BaseURL }}{{ .Params.twitterImage }}"/>
 <meta name="twitter:description" content="Lorem Ipsum Dolor Si Amet">
 {{ else }}
 <meta name="twitter:card" content="summary"/>
