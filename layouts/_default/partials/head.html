@@ -26,14 +26,15 @@
 <!--Add Y.sawamura-->
   
   <!-- og images -->
-  {{ if eq .RelPermalink "/" }}
+  <meta name="thumbnail" content="{{ .Site.BaseURL }}{{ .Params.eyecatch }}"/>
+
   <meta name="og:image" content="{{ .Site.BaseURL }}{{ .Params.eyecatch }}">
-  {{ end }}
+
   <!-- Twitter Card Summary with large image -->
   <meta name="twitter:card" content="summary_large_image" /></meta>
-  {{ if eq .RelPermalink "/" }}
+
   <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.eyecatch }}"></meta>
-  {{ end }}
+
 
 <!--End Y.sawamura-->
 
