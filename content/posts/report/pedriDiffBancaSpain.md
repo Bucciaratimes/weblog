@@ -13,7 +13,7 @@ tags:
 draft: true
 toc: true # table of contents 目次
 autoCollapseToc: false
-twitterImage: "/images/report/pedriFor/image1.jpg"
+twitterImage: /images/report/pedriFor/image1.jpg
 ---
 
 こんにちは。
