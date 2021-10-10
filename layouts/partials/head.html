@@ -29,7 +29,6 @@
 
   {{ with .Params.twitterImage }}
     <meta property="og:image" content="{{ . | absURL }}">
-    <meta property="og:image:url" content="{{ . | absURL }}">
     <meta property="og:image:url" content="{{ $.Site.BaseURL }}{{ $.Params.twitterImage }}">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:app:name:iphone" content="{{ $.Site.Title }}">
