@@ -44,7 +44,7 @@ hasCJKLanguage = true
   darkNav = true
   dark404 = true
 
-  # images = ["/images/totoro024.jpg"]
+  images = ["/images/report/pedriFor/cover.jpg"]
 
   author = "Bucciarati"
   description = "Bucciaratimes is weblog site about Football, especially Argentina & Barcelona"
