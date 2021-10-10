@@ -62,4 +62,3 @@ autoCollapseToc: false
 
 <script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
-

@@ -65,7 +65,7 @@ autoCollapseToc: false
 
 以下90分あたりの値です。コウチーニョは90分あたりに直すと多くのパスを貰ってたことが分かります。これは４２３１コウチーニョシステムのおかげですかね。
 
-##### 90分あたりのパス被供給数
+##### 90分あたりのパス被供給数（アタッキングサード以降）
 
 1. Lionel Messi        ｜ 40.4464
 2. Philippe Coutinho   ｜ 40.1369
@@ -79,7 +79,7 @@ autoCollapseToc: false
 
 当然パスが集まれば、パスをする回数も増えますから、アタッキングサード以降で最もパスを出しているのもメッシです。以下は90分あたりの値です。
 
-##### 90分あたりのパス供給数
+##### 90分あたりのパス供給数（アタッキングサード以降）
 
 1. Lionel Messi        ｜ 42.6785
 2. Philippe Coutinho   ｜ 40.1369
@@ -143,7 +143,7 @@ autoCollapseToc: false
 
 次に90分あたりの数字も見てみます。
 
-##### 90分あたりのパス被供給数
+##### 90分あたりのパス被供給数（アタッキングサード以降）
 
 1. Jordi Alba          ｜ 29.0
 2. Memphis Depay   ｜ 19.333333
@@ -153,7 +153,7 @@ autoCollapseToc: false
 6. Sergio Busquets     ｜ 7.9310
 7. BraithWaite  | 6.8
 
-##### 90分あたりのパス供給数
+##### 90分あたりのパス供給数（アタッキングサード以降）
 
 1. Jordi Alba          ｜ 29.0
 2. Memphis Depay   ｜ 19.66666
@@ -180,6 +180,8 @@ autoCollapseToc: false
 個人的にフレンキーとペドリ、どっちか選べって言われたら秒でペドリなんですよね。
 
 理由は以下のブログで書いてますので割愛しますが、端的にいうとフレンキーは好きだけどそれ以上にらしくて強いバルサがみたいってのが強いのです。
+
+能力分布的にも働かせてナンボなフレンキーのテンポに合わせると、全体がライプツィヒよろしくなサッカーになるでしょう。なのでコントローラーはあくまでペドリに渡すべきです。このコントローラ側に将来的にリキプーチ・ガビらへんが関わってくると面白そうなんですが。。。
 
 <!-- [紹介文]({{< ref "/posts/intro/maroni_intro.md" >}})   -->
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://bucciaratimes.info/posts/report/frenkie2021/" data-iframely-url="//cdn.iframe.ly/Pg0Wlzx?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
