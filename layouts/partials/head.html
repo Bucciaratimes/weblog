@@ -4,8 +4,7 @@
 
 {{ if eq .Type "posts" }}
 <!-- Page Author & Description -->
-<meta name="author" content="{{ if isset .Params " author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{
-    end }}" />
+<meta name="author" content="{{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}" />
 <meta name="description" content="{{ .Summary | plainify }}" />
 {{ else }}
 <!-- Site Author & Description -->
@@ -18,205 +17,81 @@
 
 <link rel="canonical" href="{{ .Permalink }}" />
 
-<!-- Delete Start 2021/10/10 -->
 <!-- Open Graph -->
-<!--{{ template "_internal/opengraph.html" . }}-->
+{{ template "_internal/opengraph.html" . }}
 
 <!-- Twitter Cards -->
-<!--{{ template "_internal/twitter_cards.html" . }}-->
-<!-- Delete End 2021/10/10 -->
+{{ template "_internal/twitter_cards.html" . }}
 
 <!-- Add Start 2021/10/10 -->
-<!--
-<meta property="og:title" content="Placeholder Text">
-<meta property="og:description" content="Lorem Ipsum Dolor Si Amet">
-<meta property="og:type" content="article">
-<meta property="og:url" content="https://hugo-theme-inkblotty.netlify.com/placeholder-text/">
-{{ with .Params.twitterImage }}
-<meta name="twitter:card" content="summary">
-<meta name="twitter:image:url" content="{{ Site.BaseURL }}{{ .Params.twitterImage }}"/>
-<meta name="twitter:description" content="Lorem Ipsum Dolor Si Amet">
-{{ else }}
-<meta name="twitter:card" content="summary"/>
+
+  {{ with .Params.twitterImage }}
+    <meta property="og:image" content="{{ . | absURL }}">
+    <meta property="og:image:url" content="{{ . | absURL }}">
+    <meta property="og:image:url" content="{{ $.Site.BaseURL }}{{ $.Params.twitterImage }}">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:app:name:iphone" content="{{ $.Site.Title }}">
+    <meta property="twitter:title" content="{{ $.Param "title" }}">
+    <meta property="twitter:description" content="{{ $.Param "description" }}">
 {{ end }}
--->
 
- <!-- og images -->
-  {{ if eq .RelPermalink "/" }}
-  <meta property="og:image" content="{{ Site.BaseURL }}{{ .Params.twitterImage }}">
-  {{ else }}
-  <meta property="og:image" content="{{ Site.BaseURL }}/images/chihiro005.jpg">
-  {{ end }}
-  <!-- Twitter Card Summary with large image -->
-  <meta name="twitter:card" content="summary_large_image" /></meta>
-  <meta name="twitter:site" content="{{ .Site.Social.writer_twitter_id }}"></meta>
-  <meta name="twitter:creator" content="{{ .Site.Social.writer_twitter_id }}"></meta>
-  <meta name="twitter:title" content="{{ if eq .RelPermalink "/" }}<title>{{ .Site.Title }}</title>{{ else }}<title>{{ .Title }}&nbsp;-&nbsp;{{ .Site.Title }}</title>{{ end }}"></meta>
-  <meta name="twitter:url" content="{{ .Permalink }}"></meta>
-  <meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}"></meta>
-
-  {{ if eq .RelPermalink "/" }}
-  <meta name="twitter:card" content="summary_large_image" /></meta>
-  <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.twitterImage }}"></meta>
-  {{ else }}
-  <meta name="twitter:card" content="summary_large_image" /></meta>
-  <meta name="twitter:image" content="{{ .Site.BaseURL }}/images/chihiro005.jpg"></meta>
-  {{ end }}
-
+  {{ with .Params.cover }}
+    <meta property="og:image" content="{{ . | absURL }}">
+    <meta property="og:image:url" content="{{ . | absURL }}">
+    <meta property="og:image:url" content="{{ $.Site.BaseURL }}{{ $.Params.cover }}">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:app:name:iphone" content="{{ $.Site.Title }}">
+    <meta property="twitter:title" content="{{ $.Param "title" }}">
+    <meta property="twitter:description" content="{{ $.Param "description" }}">
+{{ end }}
 
 <!-- Add End 2021/10/10 -->
 
-
-
-<link rel="stylesheet" href="{{ " /css/semantic.min.css" | relURL }}" />
-<link rel="stylesheet" href="{{ " /css/icomoon.css" | relURL }}" />
-<link rel="stylesheet" href="{{ " /css/OverlayScrollbars.min.css" | relURL }}" />
-<link rel="stylesheet" href="{{ " /css/github-markdown.css" | relURL }}" />
-<link rel="stylesheet" href="{{ " /css/site.css" | relURL }}" />
+<link rel="stylesheet" href="{{ "/css/semantic.min.css" | relURL }}" />
+<link rel="stylesheet" href="{{ "/css/icomoon.css" | relURL }}" />
+<link rel="stylesheet" href="{{ "/css/OverlayScrollbars.min.css" | relURL }}" />
+<link rel="stylesheet" href="{{ "/css/github-markdown.css" | relURL }}" />
+<link rel="stylesheet" href="{{ "/css/site.css" | relURL }}" />
 
 <style>
-    a:hover {
-        text-decoration: underline;
-    }
+  a:hover {
+    text-decoration: underline;
+  }
 
-        {
-            {
-            if .Site.Params.linkColor
-        }
-    }
+  {{ if .Site.Params.linkColor }}
+  a {
+    color: {{ .Site.Params.linkColor }} !important;
+  }
+  {{ end }}
 
-    a {
-        color: {
-                {
-                .Site.Params.linkColor
-            }
-        }
+  {{ if .Site.Params.darkLinkColor }}
+  .inverted a,
+  .inverted a:hover {
+     color: {{ .Site.Params.darkLinkColor }} !important;
+  }
+  {{ end }}
 
-         !important;
-    }
+  {{ if or .Site.Params.background .Site.Params.backgroundImage }}
+  body.default {
+    {{ if .Site.Params.background }}
+    background-color: {{ .Site.Params.background }};
+    {{ end }}
 
-        {
-            {
-            end
-        }
-    }
+    {{ if .Site.Params.backgroundImage }}
+    background-image: url({{ .Site.Params.backgroundImage }});
+    {{ end }}
+  }
+  {{ end }}
 
-        {
-            {
-            if .Site.Params.darkLinkColor
-        }
-    }
+  {{ if or .Site.Params.backgroundDark .Site.Params.backgroundImageDark }}
+  body.dark {
+    {{ if .Site.Params.backgroundDark }}
+    background-color: {{ .Site.Params.backgroundDark }};
+    {{ end }}
 
-    .inverted a,
-    .inverted a:hover {
-        color: {
-                {
-                .Site.Params.darkLinkColor
-            }
-        }
-
-         !important;
-    }
-
-        {
-            {
-            end
-        }
-    }
-
-        {
-            {
-            if or .Site.Params.background .Site.Params.backgroundImage
-        }
-    }
-
-    body.default {
-            {
-                {
-                if .Site.Params.background
-            }
-        }
-
-        background-color: {
-                {
-                .Site.Params.background
-            }
-        }
-
-        ;
-
-            {
-                {
-                end
-            }
-        }
-
-            {
-                {
-                if .Site.Params.backgroundImage
-            }
-        }
-
-        background-image: url({{ .Site.Params.backgroundImage }});
-
-            {
-                {
-                end
-            }
-        }
-    }
-
-        {
-            {
-            end
-        }
-    }
-
-        {
-            {
-            if or .Site.Params.backgroundDark .Site.Params.backgroundImageDark
-        }
-    }
-
-    body.dark {
-            {
-                {
-                if .Site.Params.backgroundDark
-            }
-        }
-
-        background-color: {
-                {
-                .Site.Params.backgroundDark
-            }
-        }
-
-        ;
-
-            {
-                {
-                end
-            }
-        }
-
-            {
-                {
-                if .Site.Params.backgroundImageDark
-            }
-        }
-
-        background-image: url({{ .Site.Params.backgroundImageDark }});
-
-            {
-                {
-                end
-            }
-        }
-    }
-
-        {
-            {
-            end
-        }
-    }
+    {{ if .Site.Params.backgroundImageDark }}
+    background-image: url({{ .Site.Params.backgroundImageDark }});
+    {{ end }}
+  }
+  {{ end }}
 </style>
