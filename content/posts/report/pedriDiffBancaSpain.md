@@ -1,7 +1,7 @@
 ---
 title: スペイン代表のペドリとバルセロナのペドリをデータで比較する回
-date: 2021-10-09T12:43:06+09:00
-lastmod: 2021-10-09T12:43:06+09:00
+date: 2021-10-10T12:43:06+09:00
+lastmod: 2021-10-11T12:43:06+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 authorlink: https://twitter.com/Bucciaratimes
