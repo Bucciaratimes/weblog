@@ -26,18 +26,39 @@
 <!--{{ template "_internal/twitter_cards.html" . }}-->
 <!-- Delete End 2021/10/10 -->
 
-<!-- Add Start 2021/10/10 
+<!-- Add Start 2021/10/10 -->
 <meta property="og:title" content="Placeholder Text">
 <meta property="og:description" content="Lorem Ipsum Dolor Si Amet">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://hugo-theme-inkblotty.netlify.com/placeholder-text/">-->
+<meta property="og:url" content="https://hugo-theme-inkblotty.netlify.com/placeholder-text/">
 {{ with .Params.twitterImage }}
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image:src" content="{{ Site.BaseURL }}{{ .Params.twitterImage }}"/>
+<meta name="twitter:image:url" content="{{ Site.BaseURL }}{{ .Params.twitterImage }}"/>
 <meta name="twitter:description" content="Lorem Ipsum Dolor Si Amet">
 {{ else }}
 <meta name="twitter:card" content="summary"/>
 {{ end }}
+
+ <!-- og images -->
+  {{ if eq .RelPermalink "/" }}
+  <meta property="og:image" content="{{ .Site.BaseURL }}img/mwlogoicon.png">
+  {{ else }}
+  <meta property="og:image" content="{{ Site.BaseURL }}{{ .Params.twitterImage }}">
+  {{ end }}
+  <!-- Twitter Card Summary with large image -->
+  <meta name="twitter:card" content="summary_large_image" /></meta>
+  <meta name="twitter:site" content="{{ .Site.Social.writer_twitter_id }}"></meta>
+  <meta name="twitter:creator" content="{{ .Site.Social.writer_twitter_id }}"></meta>
+  <meta name="twitter:title" content="{{ if eq .RelPermalink "/" }}<title>{{ .Site.Title }}</title>{{ else }}<title>{{ .Title }}&nbsp;-&nbsp;{{ .Site.Title }}</title>{{ end }}"></meta>
+  <meta name="twitter:url" content="{{ .Permalink }}"></meta>
+  <meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}"></meta>
+  {{ if eq .RelPermalink "/" }}
+  <meta name="twitter:image" content="{{ Site.BaseURL }}{{ .Params.twitterImage }}"></meta>
+  {{ else }}
+  <meta name="twitter:image" content="{{ .Site.BaseURL }}images/chihiro005.jpg"></meta>
+  {{ end }}
+
+
 <!-- Add End 2021/10/10 -->
 
 
