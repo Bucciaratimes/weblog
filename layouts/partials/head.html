@@ -41,9 +41,9 @@
 
  <!-- og images -->
   {{ if eq .RelPermalink "/" }}
-  <meta property="og:image" content="{{ .Site.BaseURL }}img/mwlogoicon.png">
-  {{ else }}
   <meta property="og:image" content="{{ Site.BaseURL }}{{ .Params.twitterImage }}">
+  {{ else }}
+  <meta property="og:image" content="{{ Site.BaseURL }}/images/chihiro005.jpg">
   {{ end }}
   <!-- Twitter Card Summary with large image -->
   <meta name="twitter:card" content="summary_large_image" /></meta>
@@ -55,7 +55,7 @@
   {{ if eq .RelPermalink "/" }}
   <meta name="twitter:image" content="{{ Site.BaseURL }}{{ .Params.twitterImage }}"></meta>
   {{ else }}
-  <meta name="twitter:image" content="{{ .Site.BaseURL }}images/chihiro005.jpg"></meta>
+  <meta name="twitter:image" content="{{ .Site.BaseURL }}/images/chihiro005.jpg"></meta>
   {{ end }}
 
 
