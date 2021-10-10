@@ -10,6 +10,7 @@ author: "Bucciarati"
 avatar: /images/author.jpg
 toc: true # table of contents 目次
 autoCollapseToc: false
+eyecatch: /images/
 ---
 
 ### 1. はじめに
