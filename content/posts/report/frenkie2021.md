@@ -13,6 +13,7 @@ tags:
 draft: false
 toc: true # table of contents 目次
 autoCollapseToc: false
+twitterImage: /images/frenkieImage2.jpg
 ---
 
 フレンキーがバルセロナに加入してはや２年、未だにアンカーにはフィットせず。

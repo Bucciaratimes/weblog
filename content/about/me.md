@@ -7,17 +7,8 @@ draft: false
 
 Hi! My name is Bucciaratin da ポテイト.
 
-Favorite team -> Barcelona , Argentina
+Born a Barcelona & Argentina fan.
 
-Favorite food -> カルボナーラ
+Eat Carbonara 24/7.
 
-Favorite music -> 1975
-
-Favorite movie -> Kes
-
-Favorite player -> Messi
-
-Mac or Windows ->　Mac
-
-iPhone or Android -> Android
-
+Think Barcelona & Argentina 24/7.

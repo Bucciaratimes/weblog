@@ -27,15 +27,15 @@
 -->
 <!-- Add Start 2021/10/10 -->
 
-  {{ with .Params.twitterImage }}
-    <meta property="og:image" content="{{ . | absURL }}">
+{{ with .Params.twitterImage }}
+    <meta property="og:image" content="{{ $.Site.BaseURL }}{{ $.Params.twitterImage }}">
     <meta property="og:image:url" content="{{ $.Site.BaseURL }}{{ $.Params.twitterImage }}">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:app:name:iphone" content="{{ $.Site.Title }}">
     <meta property="twitter:title" content="{{ $.Param "title" }}">
 {{ end }}
 
-  {{ with .Params.cover }}
+{{ with .Params.cover }}
     <meta property="og:image" content="{{ . | absURL }}">
     <meta property="og:image:url" content="{{ $.Site.BaseURL }}{{ $.Params.cover }}">
     <meta name="twitter:card" content="summary_large_image">
