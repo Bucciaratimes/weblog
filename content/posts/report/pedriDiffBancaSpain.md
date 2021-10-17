@@ -157,8 +157,6 @@ xTは、ゴールに直結する部分のプレーはxG・xAという形であ�
 
 ### チームのスタイルの違い
 
-言わずもがな今季のバルサはバルサっぽくないです。正直昨シーズンも一昨シーズンもバルサっぽくなかったのですが、今季はその傾向が圧倒的に強いです。
-
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://bucciaratimes.info/posts/match/new_barca/" data-iframely-url="//cdn.iframe.ly/8XjC8nK?card=small"></a></div></div>
 
 データ的にいくつかの観点がありますが、一番わかりやすいのは上記のブログで書いた「アタッキングサード以降のパス数」でしょうか。
