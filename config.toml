@@ -8,7 +8,7 @@ copyright = "©️2020 Bucciarati All Rights Reserved"
 
 googleAnalytics = "UA-190315712-1"
 
-disqusShortname = "Bucciarati"
+disqusShortname = "Bucciarati da ポテイト"
 
 enableRobotsTXT = true
 
@@ -17,7 +17,6 @@ hasCJKLanguage = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-
 
 [markup]
   [markup.goldmark]
