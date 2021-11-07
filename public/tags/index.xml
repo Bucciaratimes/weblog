@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>©️2020 Bucciarati All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 25 Sep 2021 19:19:29 +0900</lastBuildDate><atom:link href="https://bucciaratimes.info/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Nov 2021 12:44:59 +0900</lastBuildDate><atom:link href="https://bucciaratimes.info/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>report</title>
+      <link>https://bucciaratimes.info/tags/report/</link>
+      <pubDate>Sat, 06 Nov 2021 12:44:59 +0900</pubDate>
+      
+      <guid>https://bucciaratimes.info/tags/report/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Review</title>
       <link>https://bucciaratimes.info/tags/review/</link>
@@ -32,15 +41,6 @@
       <pubDate>Sat, 15 May 2021 00:26:06 +0900</pubDate>
       
       <guid>https://bucciaratimes.info/tags/intro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Report</title>
-      <link>https://bucciaratimes.info/tags/report/</link>
-      <pubDate>Tue, 23 Mar 2021 22:19:48 +0900</pubDate>
-      
-      <guid>https://bucciaratimes.info/tags/report/</guid>
       <description></description>
     </item>
     
