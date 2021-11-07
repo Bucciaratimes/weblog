@@ -5,7 +5,7 @@ lastmod: 2020-01-31T23:00:23+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 # authorlink: https://author.site
-cover: /images/report/roadToVictory/messi_rossia.jpg
+cover: /images/report/roadToVictory0/messi_rossia.jpg
 categories:
     - "Argentina"
 tags: 
