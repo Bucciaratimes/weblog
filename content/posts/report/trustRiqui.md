@@ -5,7 +5,7 @@ date: 2021-07-23T17:52:05+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 authorlink: https://twitter.com/Bucciaratimes
-cover: /images/trustRiqui/riquiImage3.jpg
+cover: /images/report/trustRiqui/riquiImage3.jpg
 categories:
     - "Barcelona"
 tags: 
@@ -40,7 +40,7 @@ autoCollapseToc: false
 3. バーの色->その方向へのパスの回数（色が濃ければ濃いほどその方向へのパスが多いです）
 ```
 
-![figure1](/images/trustRiqui/report/riqui1.png) 
+![figure1](/images/report/trustRiqui/riqui1.png) 
 
 リキプーチのパスソナー図は下段の左の図です。
 向きに関して一応ブスケツの図に書いたのですが、分かりづらいので補足させてください。

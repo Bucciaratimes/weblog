@@ -4,7 +4,7 @@ date: 2020-12-27T00:12:20+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 # authorlink: https://author.site
-cover: /images/report/trincao_cover1.jpeg
+cover: /images/report/trincaoNewStar/trincao_cover1.jpeg
 categories:
     - "Barcelona"
 tags: 
@@ -47,7 +47,7 @@ autoCollapseToc: false
 当然ドリブルも得意としており、それもかなり特徴的なドリブルです。
 185センチ、モデル体型というスタイルの良さを活かした大きなストライドながら、細かいボールタッチを可能にした変態ドリブラーだと思ってます。
 
-![jojo naniwoitterukawakaranai](/images/jojo_naniwo.jpg)
+![jojo naniwoitterukawakaranai](/images/trincaoNewStar/jojo_naniwo.jpg)
 
 長身長ならばストライドが大きくなるので大胆なタッチ、低身長・中身長ならばストライドが小さくなりやすいので細かいタッチになるのが普通ですよね。
 
