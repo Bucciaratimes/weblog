@@ -1,19 +1,19 @@
 ---
 title: コウチーニョがバルサで失敗した理由をデータを使って改めて考える
 date: 2021-08-15T20:03:05+09:00
-　lastmod: 2021-08-15T20:03:05+09:00
+lastmod: 2021-08-15T20:03:05+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 authorlink: https://twitter.com/Bucciaratimes
-cover: /images/coutinhoCover3.jpg
+cover: /images/report/coutinhoWy/cover.jpg
 categories:
     - "Barcelona"
 tags: 
-    - ""
+    - "report"
 draft: false
 toc: true # table of contents 目次
 autoCollapseToc: false
-twitterImage: "/images/coutinhoCover3.jpg"
+twitterImage: "/images/report/coutinhoWy/cover.jpg"
 ---
 <br>
 クラブ史上最高額の移籍金でバルサに加入したコウチーニョ選手。結果は大スベリ。スベって終わるならまだいいんですけど、
@@ -49,11 +49,11 @@ twitterImage: "/images/coutinhoCover3.jpg"
 
 #### ▽1617 シュートマップ
 
-![figure0](/images/report/shotloc1617.png) 
+![figure0](/images/report/coutinhoWy/shotloc1617.png) 
 
 #### ▽1819 シュートマップ
 
-![figure1](/images/report/shotloc1819.png) 
+![figure1](/images/report/coutinhoWy/shotloc1819.png) 
 
 
 1つ目が1617シーズン、リバプール時代のコウチーニョ。2つ目が1819シーズン、バルセロナ時代のコウチーニョです。
@@ -67,10 +67,10 @@ twitterImage: "/images/coutinhoCover3.jpg"
 以下は上図のシュートマップから、シュートした位置とゴールになったシュートの位置を中央・右・左に分けて抽出し、それぞれの構成比率を示したグラフです。
 #### ▽1617シーズン
 
-![figure2](/images/report/Coutinho1617shot4.png) 
+![figure2](/images/report/coutinhoWy/Coutinho1617shot4.png) 
 #### ▽1819シーズン
 
-![figure3](/images/report/Coutinho1819shot4.png)
+![figure3](/images/report/coutinhoWy/Coutinho1819shot4.png)
 
 全シュートの構成比率を表してるのが左の円グラフです。
 ゴールになったシュートの構成比率を表してるのが右の円グラフです。
@@ -108,7 +108,7 @@ twitterImage: "/images/coutinhoCover3.jpg"
 
 同シーズンのメッシのショットマップを確認してみましょう。
 
-![figure２](/images/report/shotlocM.png) 
+![figure２](/images/report/coutinhoWy/shotlocM.png) 
 
 メッシはシュートを167本放っており、コウチーニョと比べてペナ中央でのシュートがかなり多いことが分かります。
 
@@ -184,13 +184,13 @@ twitterImage: "/images/coutinhoCover3.jpg"
 ```
 
 #### ▽1415 ゴールマップ
-![figure４](/images/report/Coutinho1415Liver.png) 
+![figure４](/images/report/coutinhoWy/Coutinho1415Liver.png) 
 #### ▽1516 ゴールマップ
-![figure４](/images/report/Coutinho1516Liver.png) 
+![figure４](/images/report/coutinhoWy/Coutinho1516Liver.png) 
 #### ▽1617 ゴールマップ
-![figure４](/images/report/Coutinho1617Liver.png) 
+![figure４](/images/report/coutinhoWy/Coutinho1617Liver.png) 
 #### ▽1819 ゴールマップ
-![figure４](/images/report/Coutinho1819Barca.png) 
+![figure４](/images/report/coutinhoWy/Coutinho1819Barca.png) 
 
 
 コウチーニョゾーンからのゴールは、1415シーズンは３〜４つ、1516シーズンは４つ、1617シーズンは２つ、1819シーズンは１〜２つでした。
@@ -204,7 +204,7 @@ twitterImage: "/images/coutinhoCover3.jpg"
 
 
 最後に「分かっていても止めらない」でお馴染みロッベンのシュートマップをみてみましょう。
-![figure４](/images/report/Robben1617Bayern.png) 
+![figure４](/images/report/coutinhoWy/Robben1617Bayern.png) 
 
 ロッベンは33歳だった1617シーズンでも６つ斜め45度から決めております。他のシーズンも怪我なく戦えた場合は５〜７つ決めています。
 

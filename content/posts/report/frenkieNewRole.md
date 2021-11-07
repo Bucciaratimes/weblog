@@ -13,7 +13,7 @@ tags:
 draft: false
 toc: true # table of contents 目次
 autoCollapseToc: false
-eyecatch: /images/report/pedriFor/cover.jpg
+twitterImage: /images/report/frenkie3BackSis/cover.jpg
 ---
 
 こんにちは。チャビの監督就任が正式に決まったということで非常に嬉しい気持ちです。
