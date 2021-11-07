@@ -5,7 +5,7 @@ lastmod: 2021-07-04T15:45:09+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 authorlink: https://twitter.com/Bucciaratimes
-cover: /images/report/griDe2.png
+cover: /images/report/griMem/griDe2.png
 categories:
     - "Barcelona"
 tags: 
@@ -35,7 +35,7 @@ autoCollapseToc: false
 
 ### シュート＆チャンスメイク関係
 
-![figure0](/images/report/griDe1.png) 
+![figure0](/images/report/griMem/griDe1.png) 
 
 流石にトップレベルの点取屋ということで両者とも非常に高い数値を叩き出しています。ただ、ゴールコンバージョン率はグリーズマンの方が上ですね。
 
@@ -43,7 +43,7 @@ autoCollapseToc: false
 
 ### パス＆ドリブル＆ポジション関係
 
-![figure1](/images/report/griDe2.png) 
+![figure1](/images/report/griMem/griDe2.png) 
 
 このチャートでは違いが生まれてますね。パスに関していうと全体的にグリーズマンの方が正確性があります。ただ「PrgPassPerTouch」を見るとメンフィスの方がずっと高い数値を示してることが分かると思います。この「PrgPassPerTouch」は「Progressive Pass Per Touch」の略で、「縦パスを入れる傾向」を示してます。つまりメンフィスの方が縦パスを入れる傾向があるということですね。
 
@@ -51,7 +51,7 @@ autoCollapseToc: false
 
 ### 守備関係
 
-![figure2](/images/report/griDe3.png) 
+![figure2](/images/report/griMem/griDe3.png) 
 ここら辺は完全にグリーズマンの土俵ですね。
 
 ## 

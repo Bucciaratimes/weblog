@@ -5,11 +5,11 @@ lastmod: 2020-01-31T23:00:23+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 # authorlink: https://author.site
-cover: /images/messi_rossia.jpg
+cover: /images/report/roadToVictory/messi_rossia.jpg
 categories:
     - "Argentina"
 tags: 
-    - "View"
+    - "report"
 draft: false
 toc: true # table of contents 目次
 autoCollapseToc: false
@@ -73,9 +73,3 @@ DF陣で良かったのは、左サイドバックのタグリアフィコくら
 GKはカバジェロとアルマーニ。どっちもどっち感は否めなかった。負傷でロメロが欠場したのは痛かったが、代表の正GKが所属クラブでは控えGKというのも寂しい話である。ルジに賭けても良かった気はしてる。
 
 こんな感じでメンバーを見ると、タレント不足は明かでした。アルヘンがベスト16で敗退するのは必然だったように思えるし、むしろよく頑張った方なんじゃないかとさえ感じます。
-
-
-
-
-
-

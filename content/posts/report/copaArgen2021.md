@@ -5,11 +5,11 @@ lastmod: 2021-06-14T23:11:50+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 authorlink: https://twitter.com/Bucciaratimes
-cover: /images/argenCopa.jpeg
+cover: /images/report/argenCopa2021/argenCopa.jpeg
 categories:
     - "Argentina"
 tags: 
-    - ""
+    - "report"
 draft: false
 toc: true # table of contents 目次
 autoCollapseToc: false

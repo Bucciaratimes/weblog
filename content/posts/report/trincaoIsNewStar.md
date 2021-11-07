@@ -8,7 +8,7 @@ cover: /images/report/trincao_cover1.jpeg
 categories:
     - "Barcelona"
 tags: 
-    - "View"
+    - "report"
 draft: false
 toc: true # table of contents 目次
 autoCollapseToc: false

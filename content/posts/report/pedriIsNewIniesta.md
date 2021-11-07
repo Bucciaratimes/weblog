@@ -4,11 +4,11 @@ date: 2020-10-30T01:49:18+00:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 authorlink: https://twitter.com/Bucciaratimes
-cover: /images/report/pedri_cover2.jpg
+cover: /images/report/pedriIsNewIniesta/pedri_cover2.jpg
 categories:
     - "Barcelona"
 tags: 
-    - "View"
+    - "report"
 draft: false
 toc: true # table of contents 目次
 autoCollapseToc: false
@@ -60,17 +60,8 @@ autoCollapseToc: false
 
 1億ユーロのコウチーニョと500万ユーロのぺドリ。お金の使い方には気を付けたいですね。
 
-### Summary!!
+### Summary
 
 簡単な内容でしたが、とにかくぺドリのプレーには注目した方が良さそうです。多分アンス・ファティと共にスペインの顔になると思います。
 
 スペインの顔がバルサになれば、スペインにも強さが戻ってくるでしょうから楽しみですね。（フェラントーレスもバルサ来ないかな。。。）
-
-
-
-
-
-
-
-
-

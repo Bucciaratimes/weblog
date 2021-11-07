@@ -5,15 +5,15 @@ lastmod: 2021-06-14T00:02:23+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 authorlink: https://twitter.com/Bucciaratimes
-cover: /images/frenkieImage2.jpg
+cover: /images/report/frenkiePivoteBiginner/frenkieImage2.jpg
 categories:
     - "Barcelona"
 tags: 
-    - ""
+    - "report"
 draft: false
 toc: true # table of contents 目次
 autoCollapseToc: false
-twitterImage: /images/frenkieImage2.jpg
+twitterImage: /images/report/frenkiePivoteBiginner/frenkieImage2.jpg
 ---
 
 フレンキーがバルセロナに加入してはや２年、未だにアンカーにはフィットせず。
@@ -56,9 +56,9 @@ twitterImage: /images/frenkieImage2.jpg
 以下はここ３シーズンのフレンキーのヒートマップです。
 マップが描かれないのはデータが破損してるか、出場してないのだと思われます。
 
-![figure1](/images/report/heatmap1.png) 
+![figure1](/images/report/frenkiePivoteBiginner/heatmap1.png) 
 
-![figure2](/images/report/heatmap2.png) 
+![figure2](/images/report/frenkiePivoteBiginner/heatmap2.png) 
 
 比較対象として、Theアンカーである俺たちのブスケツのヒートマップも用意してみました。
 
@@ -77,7 +77,7 @@ twitterImage: /images/frenkieImage2.jpg
 ```
 ということを数値化してみました。左が20/21シーズンのブスケツ、右が18/19シーズンのフレンキーになります。
 
-![figure3](/images/report/heatmap5.png) 
+![figure3](/images/report/frenkiePivoteBiginner/heatmap5.png) 
 
 にしてもエリアを分けて数字に表すと違いが顕著です。ブスケツが４５％を中央レーンでプレーするのに対して、フレンキーは２２％です。
 ここまで差があると19/20シーズンにフレンキーがブスケツ的なアンカーを求められて苦しんだ理由がよく分かります。
@@ -86,7 +86,7 @@ twitterImage: /images/frenkieImage2.jpg
 
 左が18/19シーズンのフレンキー、右が20/21シーズンのフレンキーになります。
 
-![figure4](/images/report/heatmap6.png) 
+![figure4](/images/report/frenkiePivoteBiginner/heatmap6.png) 
 
 18/19シーズンは左大外の割合が高くなっていたり、20/21シーズンはディフェンシブサードでの割合が高くなっていたり、若干の差異はあるものの全体的には非常に似ていることが分かると思います。
 

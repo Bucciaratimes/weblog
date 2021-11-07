@@ -5,11 +5,11 @@ lastmod: 2020-02-14T00:02:23+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 authorlink: https://twitter.com/Bucciaratimes
-cover: /images/lautaro_racing.jpg
+cover: /images/report/lautaroNew/lautaro_racing.jpg
 categories:
     - "Argentina"
 tags: 
-    - 'View'
+    - 'report'
 draft: false
 toc: true # table of contents 目次
 autoCollapseToc: false
