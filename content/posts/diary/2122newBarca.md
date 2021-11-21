@@ -9,7 +9,7 @@ cover: /images/report/match2122_123/cover.jpg
 categories:
     - "Barcelona"
 tags: 
-    - "Review"
+    - "Diary"
 draft: false
 toc: true # table of contents 目次
 autoCollapseToc: false
@@ -267,3 +267,4 @@ twitterImage: /images/report/pedriFor/image1.jpg
 あとは個人的にガビに期待してるので、今シーズンは昨シーズンのペドリとはいかないまでも控えとして機能するくらいには台頭して欲しいと思ってます。タイプ的にLWも行けそうですし、交代枠としてチャンスは十分ありそうですし。
 
 <script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+
