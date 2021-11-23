@@ -9,7 +9,7 @@ cover: /images/report/trustRiqui/riquiImage3.jpg
 categories:
     - "Barcelona"
 tags: 
-    - "View"
+    - "Report"
 draft: false
 toc: true # table of contents 目次
 autoCollapseToc: false
