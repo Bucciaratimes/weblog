@@ -1,7 +1,7 @@
 ---
-title: FrenkieChangedByXavi
-date: 2021-11-28T17:57:15+09:00
-lastmod: 2021-11-28T17:57:15+09:00
+title: BarcaDfAbility
+date: 2022-01-15T00:26:58+09:00
+lastmod: 2022-01-15T00:26:58+09:00
 author: "Bucciarati"
 avatar: /images/author.jpg
 authorlink: https://twitter.com/Bucciaratimes
@@ -15,3 +15,6 @@ toc: true # table of contents 目次
 autoCollapseToc: false
 eyecatch: /images/
 ---
+
+先日、こんなツイートをしました。
+

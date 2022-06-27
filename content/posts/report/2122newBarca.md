@@ -9,7 +9,7 @@ cover: /images/report/match2122_123/cover.jpg
 categories:
     - "Barcelona"
 tags: 
-    - "Diary"
+    - "report"
 draft: false
 toc: true # table of contents 目次
 autoCollapseToc: false
