@@ -22,7 +22,7 @@ autoCollapseToc: false
 ジェノアから見てた人に言わせれば「そりゃそやろ」な話だと思いますが、やっぱり今旬なアタランタで力を発揮できたのは嬉しかったです。
 ミーハーなスカロー二君の目にも流石に留まったでしょうから招集してくれるのではないでしょうか。
 
-# _Cristian Romero_
+# _Cristian Romero_
 
 ## _What kind of Career ?_
 
