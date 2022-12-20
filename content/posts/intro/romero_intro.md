@@ -1,5 +1,5 @@
 ---
-title: Intro ＃8：Cristian Romero
+title: Intro ＃6：Cristian Romero
 date: 2021-03-23T22:22:34+09:00
 lastmod: 2021-05-10T17:07:37+09:00
 author: "Bucciarati"

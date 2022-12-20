@@ -10,7 +10,7 @@ categories:
     - "Argentina"
 tags: 
     - "Intro"
-draft: false
+draft: true
 toc: true # table of contents 目次
 autoCollapseToc: false
 ---
